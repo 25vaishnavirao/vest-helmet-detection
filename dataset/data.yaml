@@ -1,0 +1,6 @@
+train: D:\vest_helmet_detection\dataset\train
+val: D:\vest_helmet_detection\dataset\valid
+test: D:\vest_helmet_detection\dataset\test
+
+nc: 3
+names: ['helmet', 'vest', 'head']
